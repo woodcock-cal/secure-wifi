@@ -11,6 +11,7 @@ Example:
 ## I forgot my account password
 
 Please visit [Mircosoft Online Password Reset](https://passwordreset.microsoftonline.com/) and follow the instructions to reset your password.
+
 *Note: It may take 1–2 hours for the new password to fully sync.*
 
 ## I forgot my account email

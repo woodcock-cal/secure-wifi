@@ -1,6 +1,7 @@
 ## Entering your login details
 
 Enter your **full company email address** in the first box.
+
 Enter your **account password** in the second box.
 
 Example:

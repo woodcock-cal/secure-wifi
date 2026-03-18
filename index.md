@@ -1,15 +1,25 @@
-# How to connect to CalisenSecure Wi-Fi
+## Entering your login details
 
-The CalisenSecure Wi-Fi network uses your company email address and your account password.
+Enter your **full company email address** in the first box.
+Enter you **account password** in the second box.
 
-Enter your full email address in the first box, for example in my case it would be Oscar.Woodcock@calisen.com.
+Example:
 
-# I forgot my account password
+`Oscar.Woodcock@calisen.com`
+`*************`
+
+## I forgot my account password
 
 Please visit [Mircosoft Online Password Reset](https://passwordreset.microsoftonline.com/) and follow the instructions to reset your password.
 
-*It will take 1-2 hours for the password to fully sync*
+Follow the instructions to reset your password.
 
-# I forgot my account email
+*Note: It may take 1–2 hours for the new password to fully sync.*
 
-You can find your email address if a colleague attempts to email you, in most cases it will be FirstName.LastName@calisen.com
+## I forgot my account email
+
+If a colleague sends you an email, your address will appear in the recipient field.
+
+In most cases the format will be:
+
+`FirstName.LastName@calisen.com`

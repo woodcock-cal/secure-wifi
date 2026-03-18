@@ -1,3 +1,5 @@
+Find `CalisenSecure` in the list of Wi-Fi networks on your device
+
 Enter your **full company email address** in the first box.
 
 Enter your **account password** in the second box.

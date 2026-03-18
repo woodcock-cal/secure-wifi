@@ -6,7 +6,7 @@ Enter your **account password** in the second box.
 
 Example:
 
-`Oscar.Woodcock@calisen.com`
+`Jeeve.Bates@calisen.com`
 `*************`
 
 ## I forgot my account password
